@@ -8,9 +8,9 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
     </head>
 
-    <body>
+    <body class="bg-dark">
         <div class="container">
-            <nav class="navbar navbar-light navbar-expand-md">
+            <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="home">Image Repository</a>
                     <button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1">
@@ -42,7 +42,7 @@
             </div>
             <div class="row mt-4">
                 <div class="col">
-                    <div class="card">
+                    <div class="card" style="background-color: #e3f2fd;">
                         <div class="card-body mb-4">
                             <h4 class="card-title">Add Image</h4>
                             <form action="addimage" method="post">
