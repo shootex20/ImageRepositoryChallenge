@@ -31,4 +31,15 @@ Running the project:
 2.	Hit ‘Run’
 3.	Now you have successfully ran the project!
 
+Notes: You can use both gifs and images. Videos do not work! This relies of URL's.
+How to add Images / Gifs: 
+1. Click the drop down menu on the right.
+2. Click 'Add Image'
+3. Get the URL of the image or gif you want to add (You can do this by right clicking the image and click 'Get Image address')
+4. Put in the title and then paste in the URL (All URL's need to be unique, no duplicates!)
+![image](https://user-images.githubusercontent.com/19786531/117554047-68422f80-b012-11eb-80b8-780da215af34.png)
+6. Click submit and you should see 'Added image successfully'
+![image](https://user-images.githubusercontent.com/19786531/117554036-582a5000-b012-11eb-85c4-2766e31cd44e.png)
+
+
 
