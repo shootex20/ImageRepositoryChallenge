@@ -40,6 +40,7 @@ How to add Images / Gifs:
 ![image](https://user-images.githubusercontent.com/19786531/117554047-68422f80-b012-11eb-80b8-780da215af34.png)
 6. Click submit and you should see 'Added image successfully'
 ![image](https://user-images.githubusercontent.com/19786531/117554036-582a5000-b012-11eb-85c4-2766e31cd44e.png)
+7. You should now see it on the webpage with the title and image.
 
 
 
