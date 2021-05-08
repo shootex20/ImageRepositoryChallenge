@@ -24,6 +24,8 @@ Import the database:
 7.	Go back to the netbeans project and navigate to Web Pages > META-INF
 8.	Open the contaxt.xml
 9.	Update the port, username, and password to your SQL information and save.
+
+
 Running the project:
 1.	Right click the project.
 2.	Hit ‘Run’
